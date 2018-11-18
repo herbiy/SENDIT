@@ -1,2 +1,0 @@
-# SENDIT
-delivery service
